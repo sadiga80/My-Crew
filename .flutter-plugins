@@ -1,0 +1,12 @@
+cloud_firestore=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.9.13+1/
+firebase_auth=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.8.4+5/
+firebase_core=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.3.4/
+firebase_messaging=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-4.0.0+4/
+firebase_storage=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-2.1.1+2/
+geolocator=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.1/
+google_api_availability=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.1/
+google_sign_in=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.0.4/
+image_picker=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.0+17/
+location_permissions=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.2/
+path_provider=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.5.0+1/
+sqflite=/Users/csuser/Development/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.6+2/
